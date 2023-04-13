@@ -1,0 +1,2 @@
+Đây là file TDC.txt 
+Thuộc branch 1
